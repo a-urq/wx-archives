@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WxArchives:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WxArchives_jar</output-path>
+    <root id="archive" name="WxArchives.jar">
+      <element id="module-output" name="WxArchives" />
+    </root>
+  </artifact>
+</component>
